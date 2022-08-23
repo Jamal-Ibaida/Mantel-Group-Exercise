@@ -2,7 +2,7 @@
 
 To run program you will need Python installed.
 
-1. Open a cmd terminal in the folder that has 'search.py'
+1. Open a cmd terminal in the folder that has the 'search.py' file
 
 2. in the terminal type 'search.py' or 'py search.py'
 
